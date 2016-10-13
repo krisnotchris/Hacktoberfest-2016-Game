@@ -6,9 +6,11 @@ Hactoberfest Hunt
 
 Game Description:
 	
-	Game consist of a fields like that of chessboard with Hacktoberfest word hidden.Each time the user select the a tile it will
-flip and show the content inside it.The tile will either display cross or alphabet present in the Hacktoberfest. There will be a player and a 
-opponet (bot or friend). The person to strikes all the words first will win the prize ie. prize will be displayed as Hactoberfest t-shirt.
+Game consist of a fields like that of chessboard with Hacktoberfest word hidden.
+Each time the user select the a tile it will flip and show the content inside it.
+The tile will either display cross or alphabet present in the Hacktoberfest. There
+will be a player and a opponet (bot or friend). The person to strikes all the words
+first will win the prize ie. prize will be displayed as Hactoberfest t-shirt.
 
 Rules:
 
