@@ -31,7 +31,5 @@ Each move can be used only once.
 
 Note: 
 
-1.Instead of classic chessboard tiles, Digital Ocean's cloud logo with different colours could be used.
-2.Hacktoberfest stickers could be used to represent the special move indicators.
-
-
+1. Instead of classic chessboard tiles, Digital Ocean's cloud logo with different colours could be used.
+2. Hacktoberfest stickers could be used to represent the special move indicators.
