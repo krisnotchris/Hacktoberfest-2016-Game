@@ -14,16 +14,12 @@ The tile will either display a cross sign or a letter present in the 'Hacktoberf
 will be a player and an opponent (bot or friend). The person who strikes all the words
 first will win the prize (i.e. prize will be displayed as Hactoberfest t-shirt).
 
-
-
 Rules:
 
 1. Only one tile can be selected at a time.
 2. The person who selects the tile with correct letters of the word will get another turn.
 3. The person who selects all the letters of Hacktoberfest will win the game.
 3. The person who selects all the letters of 'Hacktoberfest' will win the game.
-
-
 
 Special Moves:
 
@@ -32,9 +28,6 @@ There would be three items which represent special moves.
 2. Second would allow to user to flip the position of tiles before the other user can perform the moves.
 3. Provide hint of the opponents tile positions.
 Each move can be used only once.
-
-
-
 
 Note: 
 
